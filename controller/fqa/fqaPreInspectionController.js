@@ -1,0 +1,77 @@
+import { executeSP } from "../../custom/mssqlExecution.js";
+import { errorMessages } from "../constant.js";
+
+
+const performPreInspectionActions = async (req, res) => {
+    const { action, method } = req.body;
+
+    try {
+        const response = await executeSP({
+            spName: 'FQAPreInspection',
+            userDetails: req.userDetails,
+            headers: req.headers,
+            body: req.body
+        });
+        const { success, error, results } = response
+
+        const [data = []] = results
+
+        if (!success) {
+            return res.status(401).send({
+                notify: true,
+                success,
+                message: errorMessages.somethingWentWrong,
+                errorMessage: `${error}`,
+                action,
+                method,
+            });
+        }
+        if (['SkipFQC', 'CompleteFQAPreInspection', 'Update'].includes(action)) {
+            if (error) return res.status(201).send({
+                notify: true,
+                success: false,
+                error: true,
+                message: error,
+                action, method
+            })
+            return res.status(201).send({ notify: true, success, message: 'success', action, method });
+        }
+
+        if (action === 'GetFQAPreInspection') {
+            if (!data[0] || !results[1]?.length) {
+                return res.status(401).send({
+                    notify: true,
+                    success: false,
+                    message: errorMessages.scanValidDelivery,
+                    doDetails: [],
+                    boxDetails: [],
+                    action,
+                    method
+                });
+            }
+            return res.status(201).send({
+                notify: false,
+                success,
+                doDetails: data,
+                boxDetails: results[1] || [],
+                action,
+                method
+            });
+        }
+        if (['GetReelInfo', 'SerialNumbers'].includes(action)) {
+            return res.status(201).send({ notify: false, success, data, action, method });
+        }
+        if (['Fetch'].includes(action)) {
+            const paginate = results[1][0] || {};
+            return res.status(201).send({ success, data, paginate, action, method });
+        }
+
+        return res.status(201).send({ notify: false, success, message: 'Invalid Type', action, method });
+    } catch (error) {
+        res.status(401).send({ data: [], paginate: {}, error: `${error}` });
+    }
+};
+
+export {
+    performPreInspectionActions
+}

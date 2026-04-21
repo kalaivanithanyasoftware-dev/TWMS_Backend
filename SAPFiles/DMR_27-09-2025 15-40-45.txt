@@ -1,0 +1,2 @@
+ID  Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	 Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+523 | 24224 |  |  | TN-01-AB-003 | 32532443 | 27-09-2025 | RAIL | 45435 | 12345 | 2025-09-27 |  |  | 32532443 | 27-09-2025 | 3454432 | 1 | neha | 

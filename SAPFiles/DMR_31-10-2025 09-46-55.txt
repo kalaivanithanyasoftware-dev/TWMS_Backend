@@ -1,0 +1,2 @@
+Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+6556656665445	5	23.10.2025	  TN18BB4797	56656	31.10.2025	ROAD	1	TR	2025-10-30	34	43	56656	31.10.2025	45	1	 KERRY INDEV LOGISTIC PVT LTD	

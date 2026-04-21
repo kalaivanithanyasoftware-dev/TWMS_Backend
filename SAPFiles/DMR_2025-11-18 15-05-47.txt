@@ -1,0 +1,2 @@
+Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+4343443	43	18.11.2025	  TN18BB4797	342	04.11.2025	SEA	34	TESTTTTTTTT	12.11.2025		343	342	04.11.2025	ad	4	acd	

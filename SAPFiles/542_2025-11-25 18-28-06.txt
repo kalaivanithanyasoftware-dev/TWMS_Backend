@@ -1,0 +1,2 @@
+Doc Date	Posting Date	Material Slip	Header Text	Plant	Stor Loc	To ST Loc	541 Material Doc No	Vendor No	Material	Qty	Serial No
+25.11.2025	25.11.2025	1142504942	1142504942	1140	CHN	MMM	4525185237	704223	999-CAC000008-E	171	

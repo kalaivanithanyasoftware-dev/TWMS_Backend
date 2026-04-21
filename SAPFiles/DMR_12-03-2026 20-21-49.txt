@@ -1,0 +1,2 @@
+Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+35235352532			 TN18E5621	INV12032026	12.03.2026	ROAD	1000	SSN12032026	12.03.2026			INV12032026	12.03.2026	4634	1	Thanya	

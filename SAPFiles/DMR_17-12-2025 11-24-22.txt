@@ -1,0 +1,2 @@
+Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+343434			 TN18E5621	3434	11.12.2025	ROAD	3434	23243	04.12.2025			3434	11.12.2025	3434	33	3434344	

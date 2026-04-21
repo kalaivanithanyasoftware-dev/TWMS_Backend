@@ -1,0 +1,2 @@
+Doc Date	Posting Date	Material Slip	Doc Header Text	Sending Plant	Sending Stor Loc	Receiving Material	Supplying Material	Qty	Serial No
+18.11.2025	18.11.2025		ds	1140	CHN	001-PCA000021-E	001-PCA000065-E	999	SERIAL123

@@ -1,0 +1,2 @@
+ID	Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+8900	54545	45	30-10-2025	  TN18BB4797	43	01-10-2025	SEA	4	S	2025-10-01			43	01-10-2025	545	5	45rttf	

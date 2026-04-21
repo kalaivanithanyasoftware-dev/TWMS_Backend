@@ -1,0 +1,3 @@
+Delivery Order	PR No/Material Slip	Header Text	Plant	Header Str Loc	Reason for Movement	Vendor No	PO No	PO Item	Material	Quantity	TPN's Str Loc	UoM	Issue Qty	Serial No
+TN/DO/2011202501	123456	test	1140	CHN		704223	123456	10	999-CAC000726-E	20000	CHN	NOS	20000	
+TN/DO/2011202501	123456	test	1140	CHN		704223	123456	20	MISC-33198	2	CHN	NOS	2	

@@ -1,0 +1,2 @@
+PR No/Material Slip	Header Text	Plant	Header Str Loc	Reason for Movement	Vendor No	PO No	PO Item	Material	Quantity	TPN's Str Loc	UoM	Issue Qty	Serial No
+	1140	CHN		TS01	445456		MISC-33198	5	CHN	NOS	3	

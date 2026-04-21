@@ -1,0 +1,2 @@
+Material Slip(K)	Header text(K)	Plant(K)	Location(K)	GL Acct (K)	Doc Date	Posting Date	Rec Plant	Rec Location	Material	Qty	Serial No
+									142-CDA000066-M	20	

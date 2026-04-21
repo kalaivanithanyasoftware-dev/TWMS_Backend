@@ -1,0 +1,2 @@
+Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+9087654			TN85W6633	INV200060	20.12.2025	ROAD	10000	SSN9876	20.12.2025			INV200060	20.12.2025	LR123456	1	Thanya Transport	

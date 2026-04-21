@@ -1,0 +1,2 @@
+Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	 Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+520 | 4543534543 |  |  | TN-01-AB-003 | 46543636 | Sat Sep 27 2025 05:30:00 GMT+0530 (India Standard Time) | ROAD | 43545 | 23456 | 2025-09-27 |  |  | 46543636 | 27-09-2025 | 3253454 | 1 | neha | 

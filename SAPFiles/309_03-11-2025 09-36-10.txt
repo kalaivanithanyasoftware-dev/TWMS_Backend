@@ -1,0 +1,2 @@
+Doc Date	Posting Date	Material Slip	Doc Header Text	Sending Plant	Sending Stor Loc	Receiving Material	Supplying Material	Qty	Serial No
+03.11.2025	03.11.2025		ds	1140	CHN	999-CAC002217-E	001-PCC000011-E	19800	

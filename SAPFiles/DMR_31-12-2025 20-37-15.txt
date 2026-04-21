@@ -1,0 +1,2 @@
+Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+98765	BOE-100	31.12.2025	TN25BK4656	INV-100	31.12.2025	ROAD	100	SSN-31122025	31.12.2025	HAWB-100	MAWB-100	INV-100	31.12.2025	LR-100	10	PRANAV TRANSPORT	

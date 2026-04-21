@@ -1,0 +1,2 @@
+Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+114050125311	BOE1140	20.11.2025	 TN21AU2446	INV1140	18.11.2025		10000	CHN-1140-501	19.11.2025	AWB1140	MAWB1140	INV1140	18.11.2025	LR NO 1140	5	MARUTHI COURIER	

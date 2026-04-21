@@ -1,0 +1,6 @@
+PO No	Reference Text	BOE No	BOE Dt	AWB NO	AWB Dt	AD Code
+Port No
+Port Date
+PO Item No	BCD Amount	SWS Amount
+Qty	Assessble Value
+1122400660	13494110	6315768	24.10.2024	1898885170	24.10.2024							24000	

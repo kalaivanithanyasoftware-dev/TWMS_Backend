@@ -1,0 +1,2 @@
+ID	Purchase Order No	BOE Number	BOE Date	Vehicle No	Invoice No	Invoice Date	Mode of Shipment	Invoice Amount	Gate Entry No	Gate Entry Date	HAWB No	MAWB No	Challan no	Challan date	LR No	No. of Boxes/Palletes	Transport Details	Cancelled DMR No	Inbound Delivery No
+8898 232232 werew 29-10-2025   TN18BB4797 e434 08-10-2025 ROAD 32 ASDS 2025-10-09 344 3ew e434 08-10-2025 fsdf 4 SAADHANA SREE 
